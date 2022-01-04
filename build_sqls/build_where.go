@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strings"
 
-	"gouqinggan/wgorm/utils"
+	"github.com/hanzeingithub/wgorm/utils"
 )
 
 type WhereBuilder struct {

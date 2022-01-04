@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"gouqinggan/wgorm/utils"
+	"github.com/hanzeingithub/wgorm/utils"
 )
 
 type UpdateBuilder struct {

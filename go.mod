@@ -1,4 +1,4 @@
-module gouqinggan/wgorm
+module github.com/hanzeingithub/wgorm
 
 go 1.17
 

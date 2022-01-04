@@ -8,7 +8,7 @@ import (
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
 
-	"gouqinggan/wgorm/build_sqls"
+	"github.com/hanzeingithub/wgorm/build_sqls"
 )
 
 type Executor interface {

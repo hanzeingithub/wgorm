@@ -6,7 +6,7 @@ import (
 
 	"gorm.io/gorm"
 
-	"gouqinggan/wgorm/log"
+	"github.com/hanzeingithub/wgorm/log"
 )
 
 // Begin 的确把事务存在context里面要好很多，至少来说不用频繁调用delete来删除缓存中的东西，但是context会一直往下透传，也就是说这个事务也会一直透传，导致context过大

@@ -8,8 +8,8 @@ import (
 	"github.com/apache/thrift/lib/go/thrift"
 	"github.com/stretchr/testify/assert"
 
-	"gouqinggan/wgorm"
-	"gouqinggan/wgorm/log"
+	"github.com/hanzeingithub/wgorm"
+	"github.com/hanzeingithub/wgorm/log"
 )
 
 func InitClient() wgorm.Executor {

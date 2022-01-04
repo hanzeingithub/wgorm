@@ -8,7 +8,7 @@ import (
 	"github.com/apache/thrift/lib/go/thrift"
 	"gorm.io/gorm"
 
-	"gouqinggan/wgorm/log"
+	"github.com/hanzeingithub/wgorm/log"
 )
 
 type whereID struct {
